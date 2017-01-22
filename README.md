@@ -4,6 +4,14 @@
 
 <img src="images/MyTaxiCompany01.png" Width="400" />
 
+The **objectives** of the demo applications are:
+
+- Explain how to use maps with the **MVVM** pattern.
+- How to use **custom pushpins** (images and layouts).
+- Advanced pushpins with movement.
+- **Popups** with information.
+- Drawing **routes**.
+
 ## Screens
 
 <img src="images/MyTaxiCompany01.png" alt="Login" Width="400" />
@@ -24,6 +32,6 @@ The app targets **three** platforms:
 * __Visual Studio Community Edition is fully supported!__
 * Android SDK Tools 25.2.3 or higher
 * JDK 8.0
-* 
+
 ## Copyright and license
 Code released under the [MIT license](https://opensource.org/licenses/MIT).

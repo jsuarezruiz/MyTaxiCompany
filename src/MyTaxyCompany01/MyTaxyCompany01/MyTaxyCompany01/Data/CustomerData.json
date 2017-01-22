@@ -1,0 +1,37 @@
+﻿[
+  {
+    "Id": 1,
+    "Phone": "(555) XXX-XXXX",
+    "Name": "Jhon Doe",
+    "Title": "Jhon Doe",
+    "Address": "Calle Dr. Miguel Ríos Sarmiento, 3, 41020 Sevilla, Spain",
+    "Description": "Quick business trip to city center.",
+    "UpdateDescription": "",
+    "Latitude": 37.404566,
+    "Longitude": -5.934433,
+    "CustomerType": 1,
+    "Taxis": [
+      {
+        "id": 3
+      }
+    ],
+    "CustomerCategory": 1
+  },
+  {
+    "Id": 2,
+    "Phone": "(555) XXX-XXXX",
+    "Name": "Anna Doe",
+    "Title": "Anna Doe",
+    "Address": "Av. del Deporte, 33, 41020 Sevilla, Spain",
+    "Description": "You need to go to the nearest hospital.",
+    "UpdateDescription": "",
+    "Latitude": 37.394635,
+    "Longitude": -5.914357,
+    "Taxis": [
+      {
+        "id": 3
+      }
+    ],
+    "CustomerCategory": 3
+  }
+]
