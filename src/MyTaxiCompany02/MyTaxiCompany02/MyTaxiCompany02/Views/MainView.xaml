@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MyTaxiCompany02.Views.MainView"
+             xmlns:controls="clr-namespace:MyTaxiCompany02.Controls;assembly=MyTaxiCompany02">
+  <AbsoluteLayout>
+    <controls:CustomMap
+      AbsoluteLayout.LayoutFlags="All"
+      AbsoluteLayout.LayoutBounds="0, 0, 1.0, 1.0"
+      Customers="{Binding Customers}"/>
+  </AbsoluteLayout>
+</ContentPage>
