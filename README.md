@@ -1,4 +1,4 @@
-#MYTAXICOMPANY
+# MYTAXICOMPANY
 
 **MYTAXICOMPANY** is a sample app whose imagined purpose is to serve the mobile workforce of a fictitious taxy company that manage the customers and taxis of a city.
 
